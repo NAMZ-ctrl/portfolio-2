@@ -73,3 +73,9 @@ img{
     background-color: var(--green);
     color: var(--grey-700);
 }
+@media (min-width: ) and (max-width: ){
+    p{
+        text-align: center;
+    }       
+}
+    
