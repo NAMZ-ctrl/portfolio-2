@@ -61,6 +61,7 @@ img{
 .links a{
     display: inline-block;
     background-color: var(--grey-700);
+    background-color: blue;
     padding: 20px 40px;
     text-decoration: none;
     color: var(--white);
